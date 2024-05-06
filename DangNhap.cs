@@ -1,4 +1,6 @@
 ﻿using Client;
+using DoAnNhom3.DAO;
+using DoAnNhom3.DTO;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -33,7 +35,27 @@ namespace DoAnNhom3
 
         private void btn_dangNhap_Click(object sender, EventArgs e)
         {
+            string username= txt_username.Text;
+            string password=txt_Pass.Text;
 
+            if (Login(username, password))
+            {
+                Account loginAccount = AccountDAO.Instance.GetAccountByUserName(username);
+                NhanVien nv= new NhanVien(loginAccount);
+                this.Hide();
+                nv.ShowDialog();
+                this.Show();
+            }
+            else
+            {
+                MessageBox.Show("Sai ten tai khoan");
+            }
+
+        }
+
+        bool Login(string username, string password)
+        {
+            return AccountDAO.Instance.Login(username, password);
         }
     }
 }

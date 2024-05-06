@@ -17,8 +17,6 @@ namespace DoAnNhom3
         public ChuNhaHang()
         {
             InitializeComponent();
-
-            LoadAccountList();
         }
 
         private void dataGridView3_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -26,13 +24,6 @@ namespace DoAnNhom3
            
         }
 
-        void LoadAccountList()
-        {
-            
-
-            string query = "exec dbo.USP_GetAccountByUsername @userName = N'abc'";
-            dgv_taikhoan.DataSource = DataProvider.Instance.ExecuteQuery(query, new object[] {"staff"}); 
-
-        }
+      
     }
 }

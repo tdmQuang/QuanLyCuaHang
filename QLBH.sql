@@ -71,8 +71,34 @@ end
 go
 
 exec dbo.USP_GetAccountByUsername @userName = N'abc' --nvarchar(100)
+go
 
-select * from dbo.Account
+create proc USP_Login
+@userName nvarchar(100), @passWord nvarchar(100)
+as
+begin
+	select * from dbo.Account where Username = @userName and Password = @passWord 
+end
+go
+
+create proc USP_UpdateAccount
+@userName nvarchar(100), @displayName nvarchar(100),  @passWord nvarchar(100),  @newPassword nvarchar(100)
+as
+begin
+	declare @IsRightPass INT = 0
+	select @IsRightPass from dbo.Account where Username = @userName and Password = @passWord 
+
+	if (@IsRightPass = 1)
+	begin
+		if(@newPassword = NULL OR @newPassword = '')
+		begin 
+			update dbo.Account set DisplayName = @displayName where Username = @userName
+		end
+		else
+			update dbo.Account set DisplayName = @displayName, Password = @newPassword where Username = @userName
+		end
+end
+go
 
 
 
