@@ -105,15 +105,9 @@ namespace DoAnNhom3.DAO
                     }
                 }
                 data = cmd.ExecuteScalar();
-
-             
-
                 connection.Close();
             }
-
             return data;
         }
     }
-
-
 }
