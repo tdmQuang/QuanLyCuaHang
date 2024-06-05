@@ -18,7 +18,6 @@ D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\DoAnNhom3.exe
 D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\DoAnNhom3.pdb
 D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.csproj.AssemblyReference.cache
 D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.ChuNhaHang.resources
-D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\Client.DangKy.resources
 D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.DangNhap.resources
 D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.NhanVien.resources
 D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.Properties.Resources.resources
