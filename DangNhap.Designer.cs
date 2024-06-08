@@ -40,38 +40,41 @@
             // showPass
             // 
             this.showPass.AutoSize = true;
-            this.showPass.Location = new System.Drawing.Point(214, 233);
+            this.showPass.Location = new System.Drawing.Point(443, 211);
             this.showPass.Name = "showPass";
             this.showPass.Size = new System.Drawing.Size(95, 17);
             this.showPass.TabIndex = 44;
             this.showPass.Text = "Hiện mật khẩu";
             this.showPass.UseVisualStyleBackColor = true;
+            this.showPass.CheckedChanged += new System.EventHandler(this.showPass_CheckedChanged);
             // 
             // btnThoat
             // 
             this.btnThoat.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnThoat.Location = new System.Drawing.Point(286, 310);
+            this.btnThoat.Location = new System.Drawing.Point(515, 288);
             this.btnThoat.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(48, 25);
             this.btnThoat.TabIndex = 43;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
             // btnDangNhap
             // 
             this.btnDangNhap.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDangNhap.Location = new System.Drawing.Point(127, 266);
+            this.btnDangNhap.Location = new System.Drawing.Point(356, 244);
             this.btnDangNhap.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.btnDangNhap.Name = "btnDangNhap";
             this.btnDangNhap.Size = new System.Drawing.Size(95, 47);
             this.btnDangNhap.TabIndex = 42;
             this.btnDangNhap.Text = "Đăng nhập";
             this.btnDangNhap.UseVisualStyleBackColor = true;
+            this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(128, 197);
+            this.txtPassword.Location = new System.Drawing.Point(357, 175);
             this.txtPassword.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(170, 20);
@@ -80,7 +83,7 @@
             // 
             // txtUsername
             // 
-            this.txtUsername.Location = new System.Drawing.Point(127, 161);
+            this.txtUsername.Location = new System.Drawing.Point(356, 139);
             this.txtUsername.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.txtUsername.Multiline = true;
             this.txtUsername.Name = "txtUsername";
@@ -93,7 +96,7 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(15, 197);
+            this.label2.Location = new System.Drawing.Point(244, 175);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(71, 17);
@@ -106,7 +109,7 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(9, 160);
+            this.label1.Location = new System.Drawing.Point(238, 138);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(104, 17);
@@ -117,7 +120,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(343, 354);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.showPass);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.btnDangNhap);
@@ -125,10 +128,8 @@
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "DangNhap";
-            this.Text = "Đăng nhập";
-            this.Load += new System.EventHandler(this.DangNhap_Load);
+            this.Text = "DangNhap";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -145,4 +146,3 @@
         private System.Windows.Forms.Label label1;
     }
 }
-

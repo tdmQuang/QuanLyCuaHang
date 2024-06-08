@@ -81,72 +81,6 @@ namespace DoAnNhom3.Client
             }
         }
 
-        private void btnThemMon_Click(object sender, EventArgs e)
-        {
-            Table table = lvBill.Tag as Table;
-
-            int idBill = BillDAO.Instance.GetUncheckedBill_ByTableID(table.ID);
-            int foodID = (cbFood.SelectedItem as Food).ID;
-            int count = (int)nmThemMon.Value;
-            if (idBill == -1)   //Bill mới 
-            {
-                writer.WriteLine($"ORDER1|{table.ID}|{foodID}|{count}");
-            }
-            else
-            {
-                writer.WriteLine($"ORDER2|{table.ID}|{idBill}|{foodID}|{count}");
-            }
-
-            Invoke(new Action(() =>
-            {
-                ShowBill(table.ID);
-                LoadTable();
-            }));
-        }
-
-
-
-        private void btnThanhToan_Click(object sender, EventArgs e)
-        {
-            Table table = lvBill.Tag as Table;
-
-            int idBill = BillDAO.Instance.GetUncheckedBill_ByTableID(table.ID);
-            int discount = (int)nmGiamGia.Value;
-
-            double totalPrice = Convert.ToDouble(textBox_totalPrice.Text.Split(',')[0]);
-            double finalTotalPrice = (totalPrice - (totalPrice / 100) * discount) * 1000;
-            if (idBill != -1)
-            {
-                if (MessageBox.Show(string.Format("Xác nhận thanh toán hoá đơn cho {0}\nTổng tiền sau khi giảm: {1}đ", table.Name, finalTotalPrice), "Thông báo", MessageBoxButtons.OKCancel) == DialogResult.OK)
-                {
-                    // Sau khi xác nhận thanh toán thì sẽ gửi request đến server để thanh toán bill
-                    writer.WriteLine($"PAY|{table.ID}|{idBill}|{discount}|{finalTotalPrice}");
-                    /*ListView.ListViewItemCollection items = lvBill.Items;
-                    string totalPriceinhoadon = textBox_totalPrice.Text;*/
-
-                    // Hiển thị Form hóa đơn và chuyển dữ liệu sang
-
-                    // Khởi tạo form hoadon và truyền giá trị discountValue
-                    hoadon formHoaDon = new hoadon(lvBill, (int)nmGiamGia.Value);
-
-                    formHoaDon.Owner = this; // Đặt form NhanVien làm Owner
-
-                    // Hiển thị form hoadon và chờ cho đến khi form hoadon đóng
-                    formHoaDon.ShowDialog();
-
-                    // Xóa toàn bộ item trong lvBill
-                    lvBill.Items.Clear();
-
-                }
-            }
-
-            Invoke(new Action(() =>
-            {
-                ShowBill(table.ID);
-                LoadTable();
-            }));
-        }
-
         void LoadTable()
         {
             flowPanel_Table.Controls.Clear();
@@ -268,6 +202,77 @@ namespace DoAnNhom3.Client
             LoadFoodListByCategoryID(id);
         }
 
+        private void NhanVien_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DangNhap lg = new DangNhap();
+            lg.Show();
+        }
+        // chưa sửa code này
+
+        private void btnThemMon_Click(object sender, EventArgs e)
+        {
+            Table table = lvBill.Tag as Table;
+
+            int idBill = BillDAO.Instance.GetUncheckedBill_ByTableID(table.ID);
+            int foodID = (cbFood.SelectedItem as Food).ID;
+            int count = (int)nmThemMon.Value;
+            if (idBill == -1)   //Bill mới 
+            {
+                writer.WriteLine($"ORDER1|{table.ID}|{foodID}|{count}");
+            }
+            else
+            {
+                writer.WriteLine($"ORDER2|{table.ID}|{idBill}|{foodID}|{count}");
+            }
+
+            Invoke(new Action(() =>
+            {
+                ShowBill(table.ID);
+                LoadTable();
+            }));
+        }
+
+        private void btnThanhToan_Click(object sender, EventArgs e)
+        {
+            Table table = lvBill.Tag as Table;
+
+            int idBill = BillDAO.Instance.GetUncheckedBill_ByTableID(table.ID);
+            int discount = (int)nmGiamGia.Value;
+
+            double totalPrice = Convert.ToDouble(textBox_totalPrice.Text.Split(',')[0]);
+            double finalTotalPrice = (totalPrice - (totalPrice / 100) * discount) * 1000;
+            if (idBill != -1)
+            {
+                if (MessageBox.Show(string.Format("Xác nhận thanh toán hoá đơn cho {0}\nTổng tiền sau khi giảm: {1}đ", table.Name, finalTotalPrice), "Thông báo", MessageBoxButtons.OKCancel) == DialogResult.OK)
+                {
+                    // Sau khi xác nhận thanh toán thì sẽ gửi request đến server để thanh toán bill
+                    writer.WriteLine($"PAY|{table.ID}|{idBill}|{discount}|{finalTotalPrice}");
+                    /*ListView.ListViewItemCollection items = lvBill.Items;
+                    string totalPriceinhoadon = textBox_totalPrice.Text;*/
+
+                    // Hiển thị Form hóa đơn và chuyển dữ liệu sang
+
+                    // Khởi tạo form hoadon và truyền giá trị discountValue
+                    hoadon formHoaDon = new hoadon(lvBill, (int)nmGiamGia.Value);
+
+                    formHoaDon.Owner = this; // Đặt form NhanVien làm Owner
+
+                    // Hiển thị form hoadon và chờ cho đến khi form hoadon đóng
+                    formHoaDon.ShowDialog();
+
+                    // Xóa toàn bộ item trong lvBill
+                    lvBill.Items.Clear();
+
+                }
+            }
+
+            Invoke(new Action(() =>
+            {
+                ShowBill(table.ID);
+                LoadTable();
+            }));
+        }
+
         private void thongTinCaNhan_Click(object sender, EventArgs e)
         {
             ThongTinCaNhan profile = new ThongTinCaNhan(idStaff, writer);
@@ -281,13 +286,5 @@ namespace DoAnNhom3.Client
             lg.Show();
             return;
         }
-
-        private void NhanVien_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            DangNhap lg = new DangNhap();
-            lg.Show();
-        }
-
-
     }
 }

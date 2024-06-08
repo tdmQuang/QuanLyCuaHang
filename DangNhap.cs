@@ -4,12 +4,11 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Text;
 using System.Security.Cryptography;
-using System.Data.SqlClient;
+using System.Text;
 using System.Threading.Tasks;
+using System.Data.SqlClient;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace DoAnNhom3
 {
@@ -18,6 +17,31 @@ namespace DoAnNhom3
         public DangNhap()
         {
             InitializeComponent();
+        }
+     
+
+      
+
+       
+        private string Hashing(string password)
+        {
+            byte[] inputBytes = Encoding.UTF8.GetBytes(password);
+
+            SHA256 sha256 = SHA256.Create();
+            byte[] hashBytes = sha256.ComputeHash(inputBytes);
+
+            string hash = BitConverter.ToString(hashBytes).Replace("-", "").ToLower();
+            return hash;
+        }
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void showPass_CheckedChanged(object sender, EventArgs e)
@@ -38,10 +62,9 @@ namespace DoAnNhom3
             this.Close();
         }
 
-        private void btn_DangNhap_Click(object sender, EventArgs e)
+        private void btnDangNhap_Click(object sender, EventArgs e)
         {
-            string connectionString = "Data Source=QUANG;Initial Catalog=TeamCafe17;Integrated Security=True";
-            //string connectionString = @"Server=LAPTOP-KD8MQ4J1;Database=CafeTeam;User Id=client;Password=teamcafe;";
+            string connectionString = "Data Source=QUANG;Initial Catalog=QLNH;Integrated Security=True";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
@@ -78,6 +101,7 @@ namespace DoAnNhom3
                             // Hiển thị form1
                             Client.NhanVien nhanVien = new Client.NhanVien(idStaff);
                             nhanVien.Show();
+                            this.Show();
                         }
                         else if (position == "Quản Lý")
                         {
@@ -103,30 +127,6 @@ namespace DoAnNhom3
                 // Đóng kết nối
                 connection.Close();
             }
-
-        }
-
-        private string Hashing(string password)
-        {
-            byte[] inputBytes = Encoding.UTF8.GetBytes(password);
-
-            SHA256 sha256 = SHA256.Create();
-            byte[] hashBytes = sha256.ComputeHash(inputBytes);
-
-            string hash = BitConverter.ToString(hashBytes).Replace("-", "").ToLower();
-            return hash;
-        }
-
-
-
-        private void DangNhap_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtUsername_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

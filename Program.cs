@@ -16,7 +16,7 @@ namespace DoAnNhom3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ChuNhaHang());
+            Application.Run(new DangNhap());
         }
     }
 }

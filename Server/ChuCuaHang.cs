@@ -19,10 +19,6 @@ using DoAnNhom3.DAO;
 using DoAnNhom3.DTO;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
-
-
-
-
 namespace DoAnNhom3.Server
 {
     public partial class ChuCuaHang : Form
@@ -32,6 +28,7 @@ namespace DoAnNhom3.Server
             InitializeComponent();
             LoadDateTimePickerBill();
         }
+
         #region ClientServer
         private TcpListener listener;
         private List<TcpClient> clients = new List<TcpClient>();
@@ -197,6 +194,7 @@ namespace DoAnNhom3.Server
         {
             LoadListBillByDates(dateTime_FromDate.Value, dateTime_ToDate.Value);
         }
+
         #endregion
 
         #region food
@@ -220,14 +218,14 @@ namespace DoAnNhom3.Server
             dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery("SELECT idFood AS [Mã món], name AS [Tên món], idCategory AS [Mã danh mục], price AS [Giá tiền] FROM Food");
             ClearFoodInfo();
         }
-
         private void buttonViewFood_Click(object sender, EventArgs e)
         {
             dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery("SELECT idFood AS [Mã món], name AS [Tên món], idCategory AS [Mã danh mục], price AS [Giá tiền] FROM Food");
         }
-        private void dataGridViewFood_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
 
+
+        private void dataGridViewFood_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
             // Kiểm tra xem hàng đang được chọn có giá trị hay không
             if (e.RowIndex >= 0 && dataGridViewFood.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null)
             {
@@ -246,6 +244,7 @@ namespace DoAnNhom3.Server
                 ClearFoodInfo();
             }
         }
+
 
         void ClearFoodInfo()
         {
@@ -288,7 +287,7 @@ namespace DoAnNhom3.Server
             dataGridViewCategory.DataSource = DataProvider.Instance.ExecuteQuery("SELECT idCategory AS [Mã danh mục], name AS [Tên danh mục] FROM FoodCategory");
         }
 
-        private void dataGridViewCategory_CellClick(object sender, DataGridViewCellEventArgs e)
+        private void dataGridViewCategory_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             // Kiểm tra xem hàng đang được chọn có giá trị hay không
             if (e.RowIndex >= 0 && dataGridViewCategory.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null)
@@ -308,14 +307,10 @@ namespace DoAnNhom3.Server
             }
         }
 
+
         #endregion
 
         #region infoStaff
-        private void buttonViewAccount_Click(object sender, EventArgs e)
-        {
-            dataGridViewInfoStaff.DataSource = DataProvider.Instance.ExecuteQuery("SELECT userName AS [Tài khoản], A.idStaff AS [Mã nhân viên], S.fullName AS [Họ và tên], S.phoneNumber AS [SĐT], S.firstDoW AS [Ngày vào làm], S.position AS [Chức vụ]  FROM Account AS A , Staff AS S WHERE A.idStaff = S.idStaff");
-        }
-
         private void buttonAddAccount_Click(object sender, EventArgs e)
         {
             DAO.AccountDAO.Instance.InsertAccount(textBoxUsername.Text, textBoxIdStaff.Text, textBoxFullName.Text, textBoxSDT.Text, textBoxDow.Text, textBoxPosition.Text);
@@ -330,6 +325,11 @@ namespace DoAnNhom3.Server
             ClearInfoAccount();
         }
 
+        private void buttonViewAccount_Click(object sender, EventArgs e)
+        {
+            dataGridViewInfoStaff.DataSource = DataProvider.Instance.ExecuteQuery("SELECT userName AS [Tài khoản], A.idStaff AS [Mã nhân viên], S.fullName AS [Họ và tên], S.phoneNumber AS [SĐT], S.firstDoW AS [Ngày vào làm], S.position AS [Chức vụ]  FROM Account AS A , Staff AS S WHERE A.idStaff = S.idStaff");
+        }
+
         private void buttonResetPassword_Click(object sender, EventArgs e)
         {
             string defaultPassword = Hashing("123");
@@ -337,7 +337,7 @@ namespace DoAnNhom3.Server
             MessageBox.Show("Đặt lại mật khẩu thành công!\nMật khẩu mặc định là 123.");
         }
 
-        private void dataGridViewInfoStaff_CellClick(object sender, DataGridViewCellEventArgs e)
+        private void dataGridViewInfoStaff_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             // Lấy hàng đang được chọn trong DataGridView
             DataGridViewRow row = dataGridViewInfoStaff.Rows[e.RowIndex];
@@ -390,8 +390,10 @@ namespace DoAnNhom3.Server
             string hash = BitConverter.ToString(hashBytes).Replace("-", "").ToLower();
             return hash;
         }
+
         #endregion
 
+     
     }
 }
 

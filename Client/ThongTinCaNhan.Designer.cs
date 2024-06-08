@@ -118,6 +118,7 @@
             this.btnThoat.TabIndex = 70;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
             // btnCapNhat
             // 
@@ -128,6 +129,7 @@
             this.btnCapNhat.TabIndex = 69;
             this.btnCapNhat.Text = "Cập nhật";
             this.btnCapNhat.UseVisualStyleBackColor = true;
+            this.btnCapNhat.Click += new System.EventHandler(this.btnCapNhat_Click);
             // 
             // matKhauMoi
             // 

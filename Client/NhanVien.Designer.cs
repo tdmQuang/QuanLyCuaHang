@@ -101,6 +101,7 @@
             this.btnThemMon.TabIndex = 7;
             this.btnThemMon.Text = "Thêm món";
             this.btnThemMon.UseVisualStyleBackColor = true;
+            this.btnThemMon.Click += new System.EventHandler(this.btnThemMon_Click);
             // 
             // cbFood
             // 
@@ -169,6 +170,7 @@
             this.btnThanhToan.TabIndex = 9;
             this.btnThanhToan.Text = "Thanh toán";
             this.btnThanhToan.UseVisualStyleBackColor = true;
+            this.btnThanhToan.Click += new System.EventHandler(this.btnThanhToan_Click);
             // 
             // panel2
             // 
@@ -241,14 +243,16 @@
             // thongTinCaNhan
             // 
             this.thongTinCaNhan.Name = "thongTinCaNhan";
-            this.thongTinCaNhan.Size = new System.Drawing.Size(170, 22);
+            this.thongTinCaNhan.Size = new System.Drawing.Size(180, 22);
             this.thongTinCaNhan.Text = "Thông tin cá nhân";
+            this.thongTinCaNhan.Click += new System.EventHandler(this.thongTinCaNhan_Click);
             // 
             // dangXuat
             // 
             this.dangXuat.Name = "dangXuat";
-            this.dangXuat.Size = new System.Drawing.Size(170, 22);
+            this.dangXuat.Size = new System.Drawing.Size(180, 22);
             this.dangXuat.Text = "Đăng xuất";
+            this.dangXuat.Click += new System.EventHandler(this.dangXuat_Click);
             // 
             // NhanVien
             // 

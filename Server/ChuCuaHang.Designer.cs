@@ -176,6 +176,7 @@
             this.btnThongKe.TabIndex = 3;
             this.btnThongKe.Text = "Thống kê";
             this.btnThongKe.UseVisualStyleBackColor = true;
+            this.btnThongKe.Click += new System.EventHandler(this.btnThongKe_Click);
             // 
             // dateTime_FromDate
             // 
@@ -353,6 +354,7 @@
             this.buttonViewFood.TabIndex = 3;
             this.buttonViewFood.Text = "Xem";
             this.buttonViewFood.UseVisualStyleBackColor = true;
+            this.buttonViewFood.Click += new System.EventHandler(this.buttonViewFood_Click);
             // 
             // buttonModFood
             // 
@@ -362,6 +364,7 @@
             this.buttonModFood.TabIndex = 2;
             this.buttonModFood.Text = "Sửa";
             this.buttonModFood.UseVisualStyleBackColor = true;
+            this.buttonModFood.Click += new System.EventHandler(this.buttonModFood_Click);
             // 
             // buttonDelFood
             // 
@@ -371,6 +374,7 @@
             this.buttonDelFood.TabIndex = 1;
             this.buttonDelFood.Text = "Xoá";
             this.buttonDelFood.UseVisualStyleBackColor = true;
+            this.buttonDelFood.Click += new System.EventHandler(this.buttonDelFood_Click);
             // 
             // buttonAddFood
             // 
@@ -380,6 +384,7 @@
             this.buttonAddFood.TabIndex = 0;
             this.buttonAddFood.Text = "Thêm";
             this.buttonAddFood.UseVisualStyleBackColor = true;
+            this.buttonAddFood.Click += new System.EventHandler(this.buttonAddFood_Click);
             // 
             // panel3
             // 
@@ -397,6 +402,7 @@
             this.dataGridViewFood.RowHeadersWidth = 51;
             this.dataGridViewFood.Size = new System.Drawing.Size(362, 355);
             this.dataGridViewFood.TabIndex = 1;
+            this.dataGridViewFood.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewFood_CellContentClick);
             // 
             // tabPage3
             // 
@@ -487,6 +493,7 @@
             this.dataGridViewCategory.RowHeadersWidth = 51;
             this.dataGridViewCategory.Size = new System.Drawing.Size(370, 355);
             this.dataGridViewCategory.TabIndex = 1;
+            this.dataGridViewCategory.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewCategory_CellContentClick);
             // 
             // panel18
             // 
@@ -507,6 +514,7 @@
             this.buttonViewCategory.TabIndex = 3;
             this.buttonViewCategory.Text = "Xem";
             this.buttonViewCategory.UseVisualStyleBackColor = true;
+            this.buttonViewCategory.Click += new System.EventHandler(this.buttonViewCategory_Click);
             // 
             // buttonModCategory
             // 
@@ -516,6 +524,7 @@
             this.buttonModCategory.TabIndex = 2;
             this.buttonModCategory.Text = "Sửa";
             this.buttonModCategory.UseVisualStyleBackColor = true;
+            this.buttonModCategory.Click += new System.EventHandler(this.buttonModCategory_Click);
             // 
             // buttonDelCategory
             // 
@@ -525,6 +534,7 @@
             this.buttonDelCategory.TabIndex = 1;
             this.buttonDelCategory.Text = "Xoá";
             this.buttonDelCategory.UseVisualStyleBackColor = true;
+            this.buttonDelCategory.Click += new System.EventHandler(this.buttonDelCategory_Click);
             // 
             // buttonAddCategory
             // 
@@ -534,6 +544,7 @@
             this.buttonAddCategory.TabIndex = 0;
             this.buttonAddCategory.Text = "Thêm";
             this.buttonAddCategory.UseVisualStyleBackColor = true;
+            this.buttonAddCategory.Click += new System.EventHandler(this.buttonAddCategory_Click);
             // 
             // tabPage5
             // 
@@ -647,6 +658,7 @@
             this.buttonResetPassword.TabIndex = 9;
             this.buttonResetPassword.Text = "Đặt lại mật khẩu";
             this.buttonResetPassword.UseVisualStyleBackColor = true;
+            this.buttonResetPassword.Click += new System.EventHandler(this.buttonResetPassword_Click);
             // 
             // panel29
             // 
@@ -743,6 +755,7 @@
             this.dataGridViewInfoStaff.RowHeadersWidth = 51;
             this.dataGridViewInfoStaff.Size = new System.Drawing.Size(368, 357);
             this.dataGridViewInfoStaff.TabIndex = 1;
+            this.dataGridViewInfoStaff.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewInfoStaff_CellContentClick);
             // 
             // panel26
             // 
@@ -762,6 +775,7 @@
             this.buttonViewAccount.TabIndex = 3;
             this.buttonViewAccount.Text = "Xem";
             this.buttonViewAccount.UseVisualStyleBackColor = true;
+            this.buttonViewAccount.Click += new System.EventHandler(this.buttonViewAccount_Click);
             // 
             // buttonDelAccount
             // 
@@ -771,6 +785,7 @@
             this.buttonDelAccount.TabIndex = 1;
             this.buttonDelAccount.Text = "Xoá";
             this.buttonDelAccount.UseVisualStyleBackColor = true;
+            this.buttonDelAccount.Click += new System.EventHandler(this.buttonDelAccount_Click);
             // 
             // buttonAddAccount
             // 
@@ -780,12 +795,13 @@
             this.buttonAddAccount.TabIndex = 0;
             this.buttonAddAccount.Text = "Thêm";
             this.buttonAddAccount.UseVisualStyleBackColor = true;
+            this.buttonAddAccount.Click += new System.EventHandler(this.buttonAddAccount_Click);
             // 
             // ChuCuaHang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(939, 610);
+            this.ClientSize = new System.Drawing.Size(926, 610);
             this.Controls.Add(this.tabAdmin);
             this.Name = "ChuCuaHang";
             this.Text = "ChuCuaHang";
