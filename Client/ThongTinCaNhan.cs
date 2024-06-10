@@ -47,43 +47,7 @@ namespace DoAnNhom3.Client
 
         void LoadProfile(string idStaff)
         {
-            try
-            {
-                string connectionString = "Data Source=QUANG;Initial Catalog=QLNH;Integrated Security=True";
-                using (SqlConnection connection = new SqlConnection(connectionString))
-                {
-                    // Mở kết nối
-                    connection.Open();
-
-                    // Tạo đối tượng command để thực hiện truy vấn
-                    string query = "SELECT fullName, phoneNumber, position, userName, passWord FROM Staff, Account WHERE Staff.idStaff = @idStaff AND Staff.idStaff = Account.idStaff";
-                    using (SqlCommand command = new SqlCommand(query, connection))
-                    {
-                        // Truyền tham số vào truy vấn
-                        command.Parameters.AddWithValue("@idStaff", idStaff);
-
-                        // Thực hiện truy vấn và đọc dữ liệu
-                        using (SqlDataReader reader = command.ExecuteReader())
-                        {
-                            while (reader.Read())
-                            {
-                                // Lấy dữ liệu từ cột tương ứng và gán vào các biến
-                                fullName = reader.GetString(0);
-                                phoneNumber = reader.GetString(1);
-                                position = reader.GetString(2);
-                                userName = reader.GetString(3);
-                                passWord = reader.GetString(4);
-                            }
-                        }
-                    }
-
-                    // Đóng kết nối
-                    connection.Close();
-                }
-            }
-            catch
-            {
-            }
+           
         }
         private string Hashing(string password)
         {
