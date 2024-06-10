@@ -200,58 +200,32 @@ namespace DoAnNhom3.Server
         #region food
         private void buttonAddFood_Click(object sender, EventArgs e)
         {
-            DataProvider.Instance.ExecuteQuery("INSERT dbo.Food(name, idCategory, price) VALUES( @name , @idCategory , @price )", new object[] { textBoxNameFood.Text, textBoxIdCategory.Text, textBoxFoodPrice.Text });
-            dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery("SELECT idFood AS [Mã món], name AS [Tên món], idCategory AS [Mã danh mục], price AS [Giá tiền] FROM Food");
-            ClearFoodInfo();
+           
         }
 
         private void buttonDelFood_Click(object sender, EventArgs e)
         {
-            DataProvider.Instance.ExecuteQuery("DELETE FROM Food WHERE idFood = @idFood", new object[] { textBoxIdFood.Text });
-            dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery("SELECT idFood AS [Mã món], name AS [Tên món], idCategory AS [Mã danh mục], price AS [Giá tiền] FROM Food");
-            ClearFoodInfo();
+          
         }
 
         private void buttonModFood_Click(object sender, EventArgs e)
         {
-            DataProvider.Instance.ExecuteQuery("UPDATE Food SET name = @name , idCategory = @idCategory , price = @price WHERE idFood = @idFood", new object[] { textBoxNameFood.Text, textBoxIdCategory.Text, textBoxFoodPrice.Text, textBoxIdFood.Text });
-            dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery("SELECT idFood AS [Mã món], name AS [Tên món], idCategory AS [Mã danh mục], price AS [Giá tiền] FROM Food");
-            ClearFoodInfo();
         }
         private void buttonViewFood_Click(object sender, EventArgs e)
         {
-            dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery("SELECT idFood AS [Mã món], name AS [Tên món], idCategory AS [Mã danh mục], price AS [Giá tiền] FROM Food");
+           
         }
 
 
         private void dataGridViewFood_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            // Kiểm tra xem hàng đang được chọn có giá trị hay không
-            if (e.RowIndex >= 0 && dataGridViewFood.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null)
-            {
-                // Lấy hàng đang được chọn trong DataGridView
-                DataGridViewRow row = dataGridViewFood.Rows[e.RowIndex];
-
-                // Lấy các giá trị của ô trong hàng đó và gán vào các ô textbox tương ứng
-                textBoxIdFood.Text = row.Cells["Mã món"].Value.ToString();
-                textBoxNameFood.Text = row.Cells["Tên món"].Value.ToString();
-                textBoxIdCategory.Text = row.Cells["Mã danh mục"].Value.ToString();
-                textBoxFoodPrice.Text = row.Cells["Giá tiền"].Value.ToString();
-            }
-            else
-            {
-                // Nếu hàng được chọn không có giá trị, đặt giá trị của các ô textbox tương ứng về trống
-                ClearFoodInfo();
-            }
+            
         }
 
 
         void ClearFoodInfo()
         {
-            textBoxIdFood.Clear();
-            textBoxNameFood.Clear();
-            textBoxIdCategory.Clear();
-            textBoxFoodPrice.Clear();
+           
         }
 
         #endregion
@@ -259,52 +233,27 @@ namespace DoAnNhom3.Server
         #region category
         private void buttonAddCategory_Click(object sender, EventArgs e)
         {
-            DataProvider.Instance.ExecuteQuery("INSERT FoodCategory( name ) VALUES( @name )", new object[] { textBoxCategoryName.Text });
-            dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery("SELECT * FROM FoodCategory");
-            textBoxCategoryId.Clear();
-            textBoxCategoryName.Clear();
+            
         }
 
         private void buttonDelCategory_Click(object sender, EventArgs e)
         {
-            DataProvider.Instance.ExecuteQuery("DELETE FROM Food WHERE idCategory = @idCategory", new object[] { textBoxCategoryId.Text });
-            DataProvider.Instance.ExecuteQuery("DELETE FROM FoodCategory WHERE idCategory = @idCategory", new object[] { textBoxCategoryId.Text });
-            dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery("SELECT * FROM FoodCategory");
-            textBoxCategoryId.Clear();
-            textBoxCategoryName.Clear();
+           
         }
 
         private void buttonModCategory_Click(object sender, EventArgs e)
         {
-            DataProvider.Instance.ExecuteQuery("UPDATE FoodCategory SET name = @name WHERE idCategory = @idCategory", new object[] { textBoxCategoryName.Text, textBoxCategoryId.Text });
-            dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery("SELECT * FROM FoodCategory");
-            textBoxCategoryId.Clear();
-            textBoxCategoryName.Clear();
+            
         }
 
         private void buttonViewCategory_Click(object sender, EventArgs e)
         {
-            dataGridViewCategory.DataSource = DataProvider.Instance.ExecuteQuery("SELECT idCategory AS [Mã danh mục], name AS [Tên danh mục] FROM FoodCategory");
+           
         }
 
         private void dataGridViewCategory_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            // Kiểm tra xem hàng đang được chọn có giá trị hay không
-            if (e.RowIndex >= 0 && dataGridViewCategory.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null)
-            {
-                // Lấy hàng đang được chọn trong DataGridView
-                DataGridViewRow row = dataGridViewCategory.Rows[e.RowIndex];
-
-                // Lấy các giá trị của ô trong hàng đó và gán vào các ô textbox tương ứng
-                textBoxCategoryId.Text = row.Cells["Mã danh mục"].Value.ToString();
-                textBoxCategoryName.Text = row.Cells["Tên danh mục"].Value.ToString();
-            }
-            else
-            {
-                // Nếu hàng được chọn không có giá trị, đặt giá trị của các ô textbox tương ứng về trống
-                textBoxCategoryId.Clear();
-                textBoxCategoryName.Clear();
-            }
+            
         }
 
 
@@ -313,71 +262,31 @@ namespace DoAnNhom3.Server
         #region infoStaff
         private void buttonAddAccount_Click(object sender, EventArgs e)
         {
-            DAO.AccountDAO.Instance.InsertAccount(textBoxUsername.Text, textBoxIdStaff.Text, textBoxFullName.Text, textBoxSDT.Text, textBoxDow.Text, textBoxPosition.Text);
-            dataGridViewInfoStaff.DataSource = DataProvider.Instance.ExecuteQuery("SELECT userName AS [Tài khoản], A.idStaff AS [Mã nhân viên], S.fullName AS [Họ và tên], S.phoneNumber AS [SĐT], S.firstDoW AS [Ngày vào làm], S.position AS [Chức vụ]  FROM Account AS A , Staff AS S WHERE A.idStaff = S.idStaff");
-            ClearInfoAccount();
+         
         }
 
         private void buttonDelAccount_Click(object sender, EventArgs e)
         {
-            DAO.AccountDAO.Instance.DeleteAccount(textBoxIdStaff.Text);
-            dataGridViewInfoStaff.DataSource = DataProvider.Instance.ExecuteQuery("SELECT userName AS [Tài khoản], A.idStaff AS [Mã nhân viên], S.fullName AS [Họ và tên], S.phoneNumber AS [SĐT], S.firstDoW AS [Ngày vào làm], S.position AS [Chức vụ]  FROM Account AS A , Staff AS S WHERE A.idStaff = S.idStaff");
-            ClearInfoAccount();
         }
 
         private void buttonViewAccount_Click(object sender, EventArgs e)
         {
-            dataGridViewInfoStaff.DataSource = DataProvider.Instance.ExecuteQuery("SELECT userName AS [Tài khoản], A.idStaff AS [Mã nhân viên], S.fullName AS [Họ và tên], S.phoneNumber AS [SĐT], S.firstDoW AS [Ngày vào làm], S.position AS [Chức vụ]  FROM Account AS A , Staff AS S WHERE A.idStaff = S.idStaff");
+          
         }
 
         private void buttonResetPassword_Click(object sender, EventArgs e)
         {
-            string defaultPassword = Hashing("123");
-            DataProvider.Instance.ExecuteQuery("UPDATE Account SET passWord = @passWord WHERE userName = @userName AND idStaff = @idStaff", new object[] { defaultPassword, textBoxUsername.Text, textBoxIdStaff.Text });
-            MessageBox.Show("Đặt lại mật khẩu thành công!\nMật khẩu mặc định là 123.");
+            
         }
 
         private void dataGridViewInfoStaff_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            // Lấy hàng đang được chọn trong DataGridView
-            DataGridViewRow row = dataGridViewInfoStaff.Rows[e.RowIndex];
-
-            // Lấy các giá trị của ô trong hàng đó và gán vào các ô textbox tương ứng
-            textBoxUsername.Text = row.Cells["Tài khoản"].Value.ToString();
-            textBoxIdStaff.Text = row.Cells["Mã nhân viên"].Value.ToString();
-            textBoxFullName.Text = row.Cells["Họ và tên"].Value.ToString();
-            textBoxSDT.Text = row.Cells["SĐT"].Value.ToString();
-            textBoxDow.Text = row.Cells["Ngày vào làm"].Value.ToString();
-            textBoxPosition.Text = row.Cells["Chức vụ"].Value.ToString();
-
-            if (textBoxIdStaff.Text == "")
-            {
-                textBoxUsername.Enabled = true;
-                textBoxIdStaff.Enabled = true;
-                textBoxFullName.Enabled = true;
-                textBoxSDT.Enabled = true;
-                textBoxDow.Enabled = true;
-                textBoxPosition.Enabled = true;
-            }
-            else
-            {
-                textBoxUsername.Enabled = false;
-                textBoxIdStaff.Enabled = false;
-                textBoxFullName.Enabled = false;
-                textBoxSDT.Enabled = false;
-                textBoxDow.Enabled = false;
-                textBoxPosition.Enabled = false;
-            }
+           
         }
 
         void ClearInfoAccount()
         {
-            textBoxUsername.Clear();
-            textBoxIdStaff.Clear();
-            textBoxFullName.Clear();
-            textBoxSDT.Clear();
-            textBoxDow.Clear();
-            textBoxPosition.Clear();
+            
         }
 
         private string Hashing(string password)

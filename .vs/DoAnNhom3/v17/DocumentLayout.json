@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\thongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\thongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|d:\\workspace\\documents\\lap_trinh_mang\\da\\quanlycuahang\\client\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\thongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\thongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\server\\chucuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,30 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\server\\chucuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:server\\chucuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\thongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\thongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\thongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\thongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\client\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:client\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,7 +59,7 @@
       "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:dao\\dataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|d:\\workspace\\documents\\lap_trinh_mang\\da\\quanlycuahang\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0B0808-A947-4EA8-92DE-E1BE63DA40F4}|DoAnNhom3.csproj|solutionrelative:dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -105,7 +105,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -115,14 +115,14 @@
               "RelativeDocumentMoniker": "DangNhap.cs",
               "ToolTip": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\DangNhap.cs",
               "RelativeToolTip": "DangNhap.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T14:19:07.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "DangNhap.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\DangNhap.cs",
               "RelativeDocumentMoniker": "DangNhap.cs",
@@ -134,20 +134,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ThongTinCaNhan.cs",
               "DocumentMoniker": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Client\\ThongTinCaNhan.cs",
               "RelativeDocumentMoniker": "Client\\ThongTinCaNhan.cs",
               "ToolTip": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Client\\ThongTinCaNhan.cs",
               "RelativeToolTip": "Client\\ThongTinCaNhan.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAApwH0AAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T11:00:39.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ThongTinCaNhan.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Client\\ThongTinCaNhan.cs",
               "RelativeDocumentMoniker": "Client\\ThongTinCaNhan.cs",
@@ -159,20 +159,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Client\\NhanVien.cs",
               "RelativeDocumentMoniker": "Client\\NhanVien.cs",
               "ToolTip": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Client\\NhanVien.cs",
               "RelativeToolTip": "Client\\NhanVien.cs",
-              "ViewState": "AQIAAM4AAAAAAAAAAADwv/8AAABRAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAwJoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T10:53:18.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NhanVien.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Client\\NhanVien.cs",
               "RelativeDocumentMoniker": "Client\\NhanVien.cs",
@@ -184,20 +184,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ChuCuaHang.cs",
               "DocumentMoniker": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Server\\ChuCuaHang.cs",
               "RelativeDocumentMoniker": "Server\\ChuCuaHang.cs",
               "ToolTip": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Server\\ChuCuaHang.cs",
               "RelativeToolTip": "Server\\ChuCuaHang.cs",
-              "ViewState": "AQIAAAEBAAAAAAAAAAAQwBQBAABIAAAA",
+              "ViewState": "AQIAAAkBAAAAAAAAAADwvx8BAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T10:46:06.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ChuCuaHang.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Server\\ChuCuaHang.cs",
               "RelativeDocumentMoniker": "Server\\ChuCuaHang.cs",
@@ -289,8 +289,7 @@
               "RelativeToolTip": "DAO\\BillInfoDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:50:11.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:50:11.58Z"
             },
             {
               "$type": "Document",
@@ -302,25 +301,24 @@
               "RelativeToolTip": "DAO\\BillDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:49:10.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:49:10.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "hoadon.cs",
               "DocumentMoniker": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Client\\hoadon.cs",
               "RelativeDocumentMoniker": "Client\\hoadon.cs",
               "ToolTip": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Client\\hoadon.cs",
               "RelativeToolTip": "Client\\hoadon.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAowBEAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwB4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T14:46:45.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "hoadon.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\Documents\\Lap_Trinh_Mang\\DA\\QuanLyCuaHang\\Client\\hoadon.cs",
               "RelativeDocumentMoniker": "Client\\hoadon.cs",
@@ -340,8 +338,7 @@
               "RelativeToolTip": "DAO\\DataClient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:23:38.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T15:23:38.574Z"
             },
             {
               "$type": "Document",
@@ -365,8 +362,7 @@
               "RelativeToolTip": "DAO\\AccountDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:27:58.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T16:27:58.152Z"
             },
             {
               "$type": "Document",
@@ -390,8 +386,7 @@
               "RelativeToolTip": "DAO\\DataProvider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T14:47:15.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T14:47:15.828Z"
             },
             {
               "$type": "Document",
