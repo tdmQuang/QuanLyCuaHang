@@ -132,5 +132,10 @@ namespace DoAnNhom3.Client
         {
 
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }

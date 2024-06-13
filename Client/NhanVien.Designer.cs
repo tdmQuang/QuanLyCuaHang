@@ -61,7 +61,7 @@
             // 
             this.flowPanel_Table.AutoScroll = true;
             this.flowPanel_Table.Location = new System.Drawing.Point(-16, 30);
-            this.flowPanel_Table.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.flowPanel_Table.Margin = new System.Windows.Forms.Padding(4);
             this.flowPanel_Table.Name = "flowPanel_Table";
             this.flowPanel_Table.Size = new System.Drawing.Size(611, 527);
             this.flowPanel_Table.TabIndex = 23;
@@ -73,7 +73,7 @@
             this.panel4.Controls.Add(this.cbFood);
             this.panel4.Controls.Add(this.cbCategory);
             this.panel4.Location = new System.Drawing.Point(605, 30);
-            this.panel4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(487, 69);
             this.panel4.TabIndex = 22;
@@ -81,7 +81,7 @@
             // nmThemMon
             // 
             this.nmThemMon.Location = new System.Drawing.Point(283, 22);
-            this.nmThemMon.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.nmThemMon.Margin = new System.Windows.Forms.Padding(4);
             this.nmThemMon.Minimum = new decimal(new int[] {
             100,
             0,
@@ -99,7 +99,7 @@
             // btnThemMon
             // 
             this.btnThemMon.Location = new System.Drawing.Point(369, 20);
-            this.btnThemMon.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnThemMon.Margin = new System.Windows.Forms.Padding(4);
             this.btnThemMon.Name = "btnThemMon";
             this.btnThemMon.Size = new System.Drawing.Size(100, 28);
             this.btnThemMon.TabIndex = 7;
@@ -111,7 +111,7 @@
             // 
             this.cbFood.FormattingEnabled = true;
             this.cbFood.Location = new System.Drawing.Point(4, 37);
-            this.cbFood.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbFood.Margin = new System.Windows.Forms.Padding(4);
             this.cbFood.Name = "cbFood";
             this.cbFood.Size = new System.Drawing.Size(248, 24);
             this.cbFood.TabIndex = 6;
@@ -120,7 +120,7 @@
             // 
             this.cbCategory.FormattingEnabled = true;
             this.cbCategory.Location = new System.Drawing.Point(4, 4);
-            this.cbCategory.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbCategory.Margin = new System.Windows.Forms.Padding(4);
             this.cbCategory.Name = "cbCategory";
             this.cbCategory.Size = new System.Drawing.Size(248, 24);
             this.cbCategory.TabIndex = 5;
@@ -132,7 +132,7 @@
             this.panel3.Controls.Add(this.btnGiamGia);
             this.panel3.Controls.Add(this.btnThanhToan);
             this.panel3.Location = new System.Drawing.Point(605, 482);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(487, 73);
             this.panel3.TabIndex = 21;
@@ -140,7 +140,7 @@
             // textBox_totalPrice
             // 
             this.textBox_totalPrice.Location = new System.Drawing.Point(204, 25);
-            this.textBox_totalPrice.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox_totalPrice.Margin = new System.Windows.Forms.Padding(4);
             this.textBox_totalPrice.Name = "textBox_totalPrice";
             this.textBox_totalPrice.ReadOnly = true;
             this.textBox_totalPrice.Size = new System.Drawing.Size(171, 22);
@@ -151,7 +151,7 @@
             // nmGiamGia
             // 
             this.nmGiamGia.Location = new System.Drawing.Point(4, 47);
-            this.nmGiamGia.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.nmGiamGia.Margin = new System.Windows.Forms.Padding(4);
             this.nmGiamGia.Minimum = new decimal(new int[] {
             100,
             0,
@@ -165,7 +165,7 @@
             // btnGiamGia
             // 
             this.btnGiamGia.Location = new System.Drawing.Point(1, 7);
-            this.btnGiamGia.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnGiamGia.Margin = new System.Windows.Forms.Padding(4);
             this.btnGiamGia.Name = "btnGiamGia";
             this.btnGiamGia.Size = new System.Drawing.Size(103, 32);
             this.btnGiamGia.TabIndex = 10;
@@ -175,7 +175,7 @@
             // btnThanhToan
             // 
             this.btnThanhToan.Location = new System.Drawing.Point(383, 4);
-            this.btnThanhToan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnThanhToan.Margin = new System.Windows.Forms.Padding(4);
             this.btnThanhToan.Name = "btnThanhToan";
             this.btnThanhToan.Size = new System.Drawing.Size(100, 65);
             this.btnThanhToan.TabIndex = 9;
@@ -187,7 +187,7 @@
             // 
             this.panel2.Controls.Add(this.lvBill);
             this.panel2.Location = new System.Drawing.Point(605, 102);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(491, 374);
             this.panel2.TabIndex = 20;
@@ -202,7 +202,7 @@
             this.lvBill.GridLines = true;
             this.lvBill.HideSelection = false;
             this.lvBill.Location = new System.Drawing.Point(4, 4);
-            this.lvBill.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lvBill.Margin = new System.Windows.Forms.Padding(4);
             this.lvBill.Name = "lvBill";
             this.lvBill.Size = new System.Drawing.Size(481, 366);
             this.lvBill.TabIndex = 4;
@@ -243,6 +243,7 @@
             this.menuStrip1.Size = new System.Drawing.Size(1201, 26);
             this.menuStrip1.TabIndex = 19;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // thongTinTaiKhoanTool
             // 
@@ -277,7 +278,7 @@
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.menuStrip1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "NhanVien";
             this.Text = "NhanVien";
             this.Load += new System.EventHandler(this.NhanVien_Load);
