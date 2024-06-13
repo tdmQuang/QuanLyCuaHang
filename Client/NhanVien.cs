@@ -29,26 +29,34 @@ namespace DoAnNhom3.Client
         public NhanVien(string idStaff)
         {
             InitializeComponent();
+            CheckForIllegalCrossThreadCalls = false;
 
             this.idStaff = idStaff;
 
-            // Kết nối đến server localhost sẽ thay đổi thành ip của server khi kết nối LAN
-            client = new TcpClient("localhost", 8888);
-            reader = new StreamReader(client.GetStream());
-            writer = new StreamWriter(client.GetStream());
-            writer.AutoFlush = true;
+            try
+            {
+                // Kết nối đến server localhost sẽ thay đổi thành ip của server khi kết nối LAN
+                client = new TcpClient("localhost", 8888);
+                reader = new StreamReader(client.GetStream());
+                writer = new StreamWriter(client.GetStream());
+                writer.AutoFlush = true;
 
-            // Gửi tên người dùng đến server để đăng ký
-            writer.WriteLine(idStaff);
+                // Gửi tên người dùng đến server để đăng ký
+                writer.WriteLine(idStaff);
 
+                // Bắt đầu nhận tin nhắn từ server
+                Thread receiveThread = new Thread(new ThreadStart(ReceiveMessages));
+                receiveThread.Start();
 
-            // Bắt đầu nhận tin nhắn từ server
-            Thread receiveThread = new Thread(new ThreadStart(ReceiveMessages));
-            receiveThread.Start();
-
-            LoadTable();
-            LoadCategory();
-            btnThanhToan.Enabled = false;
+                LoadTable();
+                LoadCategory();
+                btnThanhToan.Enabled = false;
+            }
+            catch (SocketException)
+            {
+                MessageBox.Show("Không thể kết nối đến server. Vui lòng kiểm tra lại kết nối và thử lại.", "Lỗi kết nối", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                this.Close();
+            }
         }
 
         private void ReceiveMessages()
@@ -118,6 +126,11 @@ namespace DoAnNhom3.Client
             DangNhap lg = new DangNhap();
             lg.Show();
             return;
+        }
+
+        private void NhanVien_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

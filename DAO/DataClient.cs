@@ -21,7 +21,7 @@ namespace DoAnNhom3.DAO
 
         private DataClient() { }
 
-        private string connectionstr = "Data Source=QUANG;Initial Catalog=QLNH;Integrated Security=True";
+        private string connectionstr = "Data Source=;Initial Catalog=QLNH;Integrated Security=True";
 
         public DataTable ExecuteQuery(string query, object[] parameter = null)
         {

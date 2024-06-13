@@ -64,7 +64,7 @@ namespace DoAnNhom3
 
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
-            string connectionString = "Data Source=QUANG;Initial Catalog=QLNH;Integrated Security=True";
+            string connectionString = "Data Source=;Initial Catalog=QLNH;Integrated Security=True";
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
