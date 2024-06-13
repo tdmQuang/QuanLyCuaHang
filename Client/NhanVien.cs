@@ -137,5 +137,10 @@ namespace DoAnNhom3.Client
         {
 
         }
+
+        private void flowPanel_Table_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

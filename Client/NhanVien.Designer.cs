@@ -65,6 +65,7 @@
             this.flowPanel_Table.Name = "flowPanel_Table";
             this.flowPanel_Table.Size = new System.Drawing.Size(611, 527);
             this.flowPanel_Table.TabIndex = 23;
+            this.flowPanel_Table.Paint += new System.Windows.Forms.PaintEventHandler(this.flowPanel_Table_Paint);
             // 
             // panel4
             // 
