@@ -47,7 +47,43 @@ namespace DoAnNhom3.Client
 
         void LoadProfile(string idStaff)
         {
-           
+          try
+{
+    string connectionString = "Data Source=QUANG;Initial Catalog=QLNH;Integrated Security=True";
+    using (SqlConnection connection = new SqlConnection(connectionString))
+    {
+        // Mở kết nối
+        connection.Open();
+
+        // Tạo đối tượng command để thực hiện truy vấn
+        string query = "SELECT fullName, phoneNumber, position, userName, passWord FROM Staff, Account WHERE Staff.idStaff = @idStaff AND Staff.idStaff = Account.idStaff";
+        using (SqlCommand command = new SqlCommand(query, connection))
+        {
+            // Truyền tham số vào truy vấn
+            command.Parameters.AddWithValue("@idStaff", idStaff);
+
+            // Thực hiện truy vấn và đọc dữ liệu
+            using (SqlDataReader reader = command.ExecuteReader())
+            {
+                while (reader.Read())
+                {
+                    // Lấy dữ liệu từ cột tương ứng và gán vào các biến
+                    fullName = reader.GetString(0);
+                    phoneNumber = reader.GetString(1);
+                    position = reader.GetString(2);
+                    userName = reader.GetString(3);
+                    passWord = reader.GetString(4);
+                }
+            }
+        }
+
+        // Đóng kết nối
+        connection.Close();
+    }
+}
+catch
+{
+} 
         }
         private string Hashing(string password)
         {
@@ -62,7 +98,27 @@ namespace DoAnNhom3.Client
 
         private void btnCapNhat_Click(object sender, EventArgs e)
         {
-            
+           //Nếu nhập mật khẩu giống với mật khẩu trên database thì sẽ được thay đổi thông tin 
+if (passWord == Hashing(matKhau.Text))
+{
+    fullName = hoTen.Text;
+    phoneNumber = soDienThoai.Text;
+    //hash mật khẩu mới để gửi lên server (nếu có thay đổi mk)
+    newPassWord = Hashing(nhapLaiMatKhau.Text);
+
+    //Nếu có thay đổi mk thì mk mới và nhập lại mk phải trùng nhau, nếu không thay đổi mk thì cả hai đều là NULL
+    if (matKhauMoi.Text == nhapLaiMatKhau.Text)
+    {
+        //Gửi request đến server để thay đổi thông tin
+        writer.WriteLine($"UPDATE_Account|{idStaff}|{fullName}|{phoneNumber}|{userName}|{passWord}|{newPassWord}");
+        MessageBox.Show("Cập nhật thông tin thành công!");
+        this.Close();
+    }
+}
+else
+{
+    MessageBox.Show("Cập nhật thông tin không thành công!\nSai mật khẩu.");
+} 
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
