@@ -1,0 +1,678 @@
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\bin\Debug\DoAnNhom3.exe.config
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\bin\Debug\DoAnNhom3.exe
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\bin\Debug\DoAnNhom3.pdb
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.csproj.AssemblyReference.cache
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.ChuNhaHang.resources
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\Client.DangKy.resources
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.DangNhap.resources
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.NhanVien.resources
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.Properties.Resources.resources
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.ThongTinCaNhan.resources
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.csproj.GenerateResource.cache
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.exe
+C:\Users\ROG STRIX\source\repos\DoAnNhom3\obj\Debug\DoAnNhom3.pdb
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\DoAnNhom3.exe.config
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\DoAnNhom3.exe
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\DoAnNhom3.pdb
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.csproj.AssemblyReference.cache
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.ChuNhaHang.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.DangNhap.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.NhanVien.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.Properties.Resources.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.ThongTinCaNhan.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.csproj.GenerateResource.cache
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.csproj.CoreCompileInputs.cache
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.exe
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.pdb
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Azure.Core.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Azure.Identity.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.Identity.Client.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Buffers.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Memory.Data.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Memory.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Numerics.Vectors.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Security.AccessControl.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Security.Permissions.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Security.Principal.Windows.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Text.Encodings.Web.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Text.Json.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.ValueTuple.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Azure.Core.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Azure.Identity.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.Identity.Client.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Buffers.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Memory.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Memory.Data.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Numerics.Vectors.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Security.AccessControl.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Security.Permissions.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Security.Principal.Windows.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Text.Encodings.Web.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Text.Json.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\System.ValueTuple.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\DoAnNhom3\obj\Debug\DoAnNhom3.csproj.Up2Date
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.csproj.AssemblyReference.cache
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.Client.hoadon.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.Client.NhanVien.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.Client.ThongTinCaNhan.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.DangNhap.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.Properties.Resources.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.Server.ChuCuaHang.resources
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.csproj.GenerateResource.cache
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.csproj.CoreCompileInputs.cache
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.exe
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.pdb
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\DoAnNhom3.exe.config
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\DoAnNhom3.exe
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\DoAnNhom3.pdb
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Azure.Core.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Azure.Identity.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.Identity.Client.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Buffers.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Memory.Data.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Memory.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Numerics.Vectors.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Security.AccessControl.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Security.Permissions.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Security.Principal.Windows.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Text.Encodings.Web.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Text.Json.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.ValueTuple.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Azure.Core.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Azure.Identity.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.Identity.Client.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Buffers.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Memory.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Memory.Data.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Numerics.Vectors.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Security.AccessControl.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Security.Permissions.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Security.Principal.Windows.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Text.Encodings.Web.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Text.Json.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\System.ValueTuple.xml
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Workspace\Documents\Lap_Trinh_Mang\DA\QuanLyCuaHang\obj\Debug\DoAnNhom3.csproj.Up2Date
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe.config
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.pdb
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Core.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Buffers.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Core.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Buffers.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.xml
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.AssemblyReference.cache
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.hoadon.resources
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.NhanVien.resources
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.ThongTinCaNhan.resources
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.DangNhap.resources
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Properties.Resources.resources
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Server.ChuCuaHang.resources
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.GenerateResource.cache
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.CoreCompileInputs.cache
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.CopyComplete
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.exe
+C:\Users\TAOPRO\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.pdb
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe.config
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.pdb
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Core.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Buffers.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Core.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Buffers.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.AssemblyReference.cache
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.hoadon.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.NhanVien.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.ThongTinCaNhan.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.DangNhap.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Properties.Resources.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Server.ChuCuaHang.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.GenerateResource.cache
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.CoreCompileInputs.cache
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.CopyComplete
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.exe
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.pdb
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe.config
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.pdb
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Core.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Buffers.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Core.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Buffers.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.xml
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.AssemblyReference.cache
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.hoadon.resources
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.NhanVien.resources
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.ThongTinCaNhan.resources
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.DangNhap.resources
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Properties.Resources.resources
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Server.ChuCuaHang.resources
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.GenerateResource.cache
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.CoreCompileInputs.cache
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.CopyComplete
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.exe
+D:\QUOCVU\QuanLyCuaHang-main2\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.pdb
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe.config
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.pdb
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Azure.Core.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Buffers.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Memory.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Azure.Core.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Buffers.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Memory.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.xml
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.AssemblyReference.cache
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.hoadon.resources
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.NhanVien.resources
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.ThongTinCaNhan.resources
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.DangNhap.resources
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Properties.Resources.resources
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Server.ChuCuaHang.resources
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.GenerateResource.cache
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.CoreCompileInputs.cache
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.Up2Date
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.exe
+D:\NT106.ANTT\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.pdb
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe.config
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.pdb
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Azure.Core.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Buffers.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Memory.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Azure.Core.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Buffers.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Memory.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.xml
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.AssemblyReference.cache
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.hoadon.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.NhanVien.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.ThongTinCaNhan.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.DangNhap.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Properties.Resources.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Server.ChuCuaHang.resources
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.GenerateResource.cache
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.CoreCompileInputs.cache
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.CopyComplete
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.exe
+C:\Users\quocv\Desktop\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.pdb
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe.config
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.exe
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\DoAnNhom3.pdb
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Azure.Core.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Buffers.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Memory.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Azure.Core.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Azure.Identity.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Buffers.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Memory.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Memory.Data.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Numerics.Vectors.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Security.AccessControl.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Security.Permissions.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Security.Principal.Windows.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Text.Encodings.Web.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Text.Json.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\System.ValueTuple.xml
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.AssemblyReference.cache
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.hoadon.resources
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.NhanVien.resources
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Client.ThongTinCaNhan.resources
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.DangNhap.resources
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Properties.Resources.resources
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.Server.ChuCuaHang.resources
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.GenerateResource.cache
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.CoreCompileInputs.cache
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.csproj.Up2Date
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.exe
+D:\QuanLyCuaHang(BanHoanChinh)\QuanLyCuaHang-main2\obj\Debug\DoAnNhom3.pdb
