@@ -9,34 +9,27 @@ namespace DoAnNhom3.DTO
 {
     public class Account
     {
-        public Account(string userName, string displayName, int type, string password = null) 
+        public Account(string userName, string passWord, string idStaff)
         {
-            this.Username = userName;
-            this.DisplayName = displayName;
-            this.Type = type;
-            this.Password = password;
+            this.UserName = userName;
+            this.Password = passWord;
+            this.IdStaff = idStaff;
         }
-
-        public Account (DataRow row)
+        public Account(DataRow row)
         {
-            this.Username = row["userName"].ToString();
-            this.DisplayName = row["displayName"].ToString();
-            this.Type = (int)row["type"];
-            this.Password = row["password"].ToString();
+            this.UserName = row["userName"].ToString();
+            this.Password = row["passWord"].ToString();
+            this.IdStaff = row["idStaff"].ToString();
         }
 
         private string userName;
-        public string Username {  get { return userName; } set {  userName = value; } }
 
-        private string displayName;
-        public string DisplayName { get { return displayName; } set { displayName = value; } }
-
-        private int type;
-        public int Type { get { return type; } set { type = value; } }
+        public string UserName { get => userName; set => userName = value; }
 
         private string password;
-        public string Password { get {  return password; } set {  password = value; } }
+        public string Password { get => password; set => password = value; }
 
-
+        private string idStaff;
+        public string IdStaff { get => idStaff; set => idStaff = value; }
     }
 }

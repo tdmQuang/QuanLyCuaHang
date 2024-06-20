@@ -13,22 +13,22 @@ namespace DoAnNhom3.DAO
         private static DataProvider instance;
         public static DataProvider Instance
         {
-            get { if (instance == null) instance = new DataProvider(); return instance; }
-            private set { instance = value; }
+            get { if (instance == null) instance = new DataProvider(); return DataProvider.instance; }
+            private set { DataProvider.instance = value; }
         }
 
         private DataProvider() { }
 
-        private string connectionSTR = "Data Source=QUANG;Initial Catalog=QLCH;Integrated Security=True;";
-         
+        private string connectionstr = @"Data Source=;Initial Catalog=QLNH;Integrated Security=True";
+
         public DataTable ExecuteQuery(string query, object[] parameter = null)
         {
             DataTable data = new DataTable();
-            using(SqlConnection connection = new SqlConnection(connectionSTR))
+
+            using (SqlConnection connection = new SqlConnection(connectionstr))
             {
                 connection.Open();
-
-                SqlCommand cmd = new SqlCommand(query, connection);
+                SqlCommand command = new SqlCommand(query, connection);
 
                 if (parameter != null)
                 {
@@ -36,32 +36,31 @@ namespace DoAnNhom3.DAO
                     int i = 0;
                     foreach (string item in listPara)
                     {
-                        if (item.Contains('@'))
+                        if (item.Contains("@"))
                         {
-                            cmd.Parameters.AddWithValue(item, parameter[i]);
+                            command.Parameters.AddWithValue(item, parameter[i]);
                             i++;
                         }
                     }
                 }
 
-                SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+                SqlDataAdapter adapter = new SqlDataAdapter(command);
 
                 adapter.Fill(data);
 
                 connection.Close();
             }
-
             return data;
         }
 
         public int ExecuteNonQuery(string query, object[] parameter = null)
         {
             int data = 0;
-            using (SqlConnection connection = new SqlConnection(connectionSTR))
+
+            using (SqlConnection connection = new SqlConnection(connectionstr))
             {
                 connection.Open();
-
-                SqlCommand cmd = new SqlCommand(query, connection);
+                SqlCommand command = new SqlCommand(query, connection);
 
                 if (parameter != null)
                 {
@@ -69,14 +68,16 @@ namespace DoAnNhom3.DAO
                     int i = 0;
                     foreach (string item in listPara)
                     {
-                        if (item.Contains('@'))
+                        if (item.Contains("@"))
                         {
-                            cmd.Parameters.AddWithValue(item, parameter[i]);
+                            command.Parameters.AddWithValue(item, parameter[i]);
                             i++;
                         }
                     }
                 }
-                data = cmd.ExecuteNonQuery();
+
+                data = command.ExecuteNonQuery();
+
                 connection.Close();
             }
             return data;
@@ -85,11 +86,11 @@ namespace DoAnNhom3.DAO
         public object ExecuteScalar(string query, object[] parameter = null)
         {
             object data = 0;
-            using (SqlConnection connection = new SqlConnection(connectionSTR))
+
+            using (SqlConnection connection = new SqlConnection(connectionstr))
             {
                 connection.Open();
-
-                SqlCommand cmd = new SqlCommand(query, connection);
+                SqlCommand command = new SqlCommand(query, connection);
 
                 if (parameter != null)
                 {
@@ -97,14 +98,16 @@ namespace DoAnNhom3.DAO
                     int i = 0;
                     foreach (string item in listPara)
                     {
-                        if (item.Contains('@'))
+                        if (item.Contains("@"))
                         {
-                            cmd.Parameters.AddWithValue(item, parameter[i]);
+                            command.Parameters.AddWithValue(item, parameter[i]);
                             i++;
                         }
                     }
                 }
-                data = cmd.ExecuteScalar();
+
+                data = command.ExecuteScalar();
+
                 connection.Close();
             }
             return data;

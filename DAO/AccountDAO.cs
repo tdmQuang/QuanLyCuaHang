@@ -19,33 +19,25 @@ namespace DoAnNhom3.DAO
         }
 
         private AccountDAO() { }
-        public bool Login(string username, string password)
+        public void UpdateAccount(string idStaff, string fullName, string phoneNumber, string userName, string passWord, string newPassWord)
         {
-            string query = "USP_Login @userName , @passWord";
-
-            DataTable result = DataProvider.Instance.ExecuteQuery(query, new object[]{username, password});
-
-            return result.Rows.Count > 0;
+            //Update họ tên, sđt hoặc mật khẩu theo mã nhân viên và tên tài khoản
+            DataProvider.Instance.ExecuteNonQuery("EXEC USP_UpdateAccount @idStaff , @fullName , @phoneNumber , @userName , @passWord , @newPassWord", new object[] { idStaff, fullName, phoneNumber, userName, passWord, newPassWord });
         }
 
-        public Account GetAccountByUserName(string username)
+        public void DeleteAccount(string idStaff)
         {
-            DataTable data = DataProvider.Instance.ExecuteQuery("select * from account where userName = '" + username + "'");
-            foreach (DataRow item in data.Rows) 
-            {
-                return new Account(item);
-            }
-            return null;
+            //Xóa tất cả thông tin liên quan đến tài khoản (các thông tin về bill, account, thông tin cá nhân)
+            DataProvider.Instance.ExecuteQuery("DELETE FROM BillInfo WHERE idBill IN (SELECT idBill FROM Bill WHERE idStaff = @idStaff )", new object[] { idStaff });
+            DataProvider.Instance.ExecuteQuery("DELETE FROM Bill WHERE idStaff = @idStaff", new object[] { idStaff });
+            DataProvider.Instance.ExecuteQuery("DELETE FROM Account WHERE idStaff = @idStaff", new object[] { idStaff });
+            DataProvider.Instance.ExecuteQuery("DELETE FROM Staff WHERE idStaff = @idStaff", new object[] { idStaff });
         }
-
-        public bool UpdateAccount(string username, string displayname, string password, string newpass) 
+        public void InsertAccount(string userName, string idStaff, string fullName, string phoneNumber, string firstDoW, string position)
         {
-            int result = DataProvider.Instance.ExecuteNonQuery("exce USP_UpdateAccount @userName, @displayName, @passWord, @newPassword", 
-                new object[] {username, displayname, password, newpass});
-            return result > 0;
-
+            //Khi thêm 1 tài khoản thì phải tạo thông tin cá nhân rồi thì sẽ tạo 1 tài khoản để đăng nhập
+            DataProvider.Instance.ExecuteQuery("INSERT Staff( idStaff , fullName , phoneNumber , firstDoW , position ) VALUES( @idStaff , @fullName , @phoneNumber , @firstDoW , @position )", new object[] { idStaff, fullName, phoneNumber, firstDoW, position });
+            DataProvider.Instance.ExecuteQuery("INSERT Account( userName , passWord , idStaff ) VALUES( @userName , @password , @idStaff )", new object[] { userName, "123", idStaff });
         }
-
-
     }
 }
